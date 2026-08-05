@@ -1,7 +1,7 @@
 # Strong Kubernetes & CKA
 
-Complete Kubernetes and CKA preparation covering fundamentals, production concepts, hands-on labs, troubleshooting, architecture, networking, security, storage, monitoring, interview questions, and real-world scenarios.
-
+==> Complete Kubernetes and CKA preparation covering fundamentals, production concepts, hands-on labs, troubleshooting, architecture, networking, security, storage, monitoring, interview questions, and real-world scenarios.
+==> Har topic ko 5–10 baar khud create, delete, aur modify karo. Agar jaldi aur permanently seekhna hai, to ye bahut important hai. Tab Kubernetes click karega.
 ## Resources
 
 - **KodeKloud:** https://notes.kodekloud.com/docs/Certified-Kubernetes-Administrator-CKA/Introduction/Course-Introduction/page
