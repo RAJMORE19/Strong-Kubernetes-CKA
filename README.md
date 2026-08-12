@@ -8,3 +8,4 @@
 - **GitHub:** https://github.com/RAJMORE19/certified-kubernetes-administrator-course
 - **TWS:** https://github.com/RAJMORE19/kubestarter/tree/main
 - **Practice Test:** https://learn.kodekloud.com/learn/courses/udemy-labs-certified-kubernetes-administrator-with-practice-tests/module/e6ae2f68-9b3a-439e-a534-d63d372840d2/lesson/0bda5a1f-2154-4522-a843-c7f90278130d
+- **CKA from Vaibhav** https://www.youtube.com/watch?v=vzOcHoNcwMg&list=PLmPit9IIdzwRjqD-l_sZBDdPlcSfKqpAt
